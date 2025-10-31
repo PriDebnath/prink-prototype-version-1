@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/a3e592f2-3dd3-460d-bd2f-15f3c2ad1241
 A web-based drawing application built with vanilla javascript.
 
 
-### 📋 Project Status: **DISCONTINUED**
+### 📋 Project Status: **❌DISCONTINUED**
 
 
 ---
