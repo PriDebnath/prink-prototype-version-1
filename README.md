@@ -4,9 +4,6 @@
 
 ### Video
 
-https://github.com/user-attachments/assets/a3e592f2-3dd3-460d-bd2f-15f3c2ad1241
-
-
 https://github.com/user-attachments/assets/0425359e-7cab-47ac-917a-0cc59ffa5e77
 
 
